@@ -14,5 +14,8 @@ Compatibility:
 # Installation
 curl -o tmfetch https://raw.githubusercontent.com/sheep1234-bin/tmfetch/main/tmfetch && chmod +x tmfetch && sudo mv tmfetch /usr/local/bin/
 
+# Uninstallation
+sudo rm /usr/local/bin/tmfetch
+
 # Usage
 tmfetch
