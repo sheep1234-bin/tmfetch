@@ -12,7 +12,8 @@ Compatibility:
 
 -Most POSIX-compliant shells
 # Installation
-curl -o tmfetch https://raw.githubusercontent.com/sheep1234-bin/tmfetch/main/tmfetch && chmod +x tmfetch && sudo mv tmfetch /usr/local/bin/
+cd tmfetch
+./install.sh
 
 # Uninstallation
 sudo rm /usr/local/bin/tmfetch
