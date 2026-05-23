@@ -12,7 +12,7 @@ Compatibility:
 
 -Most POSIX-compliant shells
 # Installation
-tar -xvzf tmfetch.tar.gz && cd tmfetch_dist && ./install.sh
+curl -LO curl -LO https://github.com/USERNAME/REPO_NAME/raw/main/tmfetch.tar.gz && tar -xvzf tmfetch.tar.gz && cd tmfetch_dist && ./install.sh
 
 # Uninstallation
 sudo rm /usr/local/bin/tmfetch
