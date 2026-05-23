@@ -12,8 +12,7 @@ Compatibility:
 
 -Most POSIX-compliant shells
 # Installation
-cd tmfetch
-./install.sh
+tar -xvzf tmfetch.tar.gz && cd tmfetch_dist && ./install.sh
 
 # Uninstallation
 sudo rm /usr/local/bin/tmfetch
