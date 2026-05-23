@@ -1,6 +1,6 @@
 ### Tmfetch (Tell Me Fetch)
 # Features:
-Size: <1kb
+Size: 1kb
 Lines: 2
 Speed: Instant
 Compatibility:
