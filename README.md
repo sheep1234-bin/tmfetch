@@ -4,6 +4,7 @@ Size: <1kb
 Lines: 2
 Speed: Instant
 Compatibility:
+
 -Termux (through proot-distro)
 -Most POSIX-compliant shells
 # Installation
