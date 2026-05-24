@@ -11,6 +11,10 @@ Compatibility:
 -Termux (through proot-distro)
 
 -Most POSIX-compliant shells
+
+-Zero depencies
+
+-Extremly Minimal
 # Installation
 curl -LO https://github.com/sheep1234-bin/tmfetch/raw/main/tmfetch.tar.gz && tar -xvzf tmfetch.tar.gz && cd tmfetch_dist
 
