@@ -1,3 +1,7 @@
+tmfetch preview on android
+
+<img width="4896" height="2200" alt="6229" src="https://github.com/user-attachments/assets/85f88253-fc4a-4639-b590-c53be9cf9f70" />
+
 ### Tmfetch (Tell Me Fetch)
 # Features:
 Size: 1kb
