@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 echo "tmfetch Installer"
 if command -v doas >/dev/null 2>&1; then
     RB="doas"
