@@ -37,5 +37,17 @@ sudo mv tmfetch /usr/local/bin
 # Uninstallation
 sudo rm /usr/local/bin/tmfetch
 
+# Updating
+curl -LO https://github.com/sheep1234-bin/tmfetch/raw/main/install.sh
+
+chmod +x install.sh
+
+cat install.sh
+(to check the file incase it was corrupted)
+
+./install.sh
+
+*The install.sh can update it or install it (you can see how this works by running cat install.sh)
+
 # Usage
 tmfetch
