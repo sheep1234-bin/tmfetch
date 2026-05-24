@@ -28,7 +28,7 @@ chmod +x install.sh && ./install.sh && cd -
 *After this you can delete the .tar.gz and tmfetch_dist file*
 
 # Manual Installation
-curl -LO tmfetch https://github.com/sheep1234-bin/tmfetch/raw/main/tmfetch
+curl -LO https://github.com/sheep1234-bin/tmfetch/raw/main/tmfetch
 
 chmod +x tmfetch
 
