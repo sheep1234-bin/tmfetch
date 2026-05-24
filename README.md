@@ -29,7 +29,9 @@ chmod +x install.sh && ./install.sh && cd -
 
 # Manual Installation
 curl -LO tmfetch https://github.com/sheep1234-bin/tmfetch/raw/main/tmfetch
+
 chmod +x tmfetch
+
 sudo mv tmfetch /usr/local/bin
 
 # Uninstallation
