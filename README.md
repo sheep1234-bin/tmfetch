@@ -32,6 +32,9 @@ sudo mv tmfetch /usr/local/bin
 # Uninstallation
 sudo rm /usr/local/bin/tmfetch
 
+# Updating
+sudo rm /usr/local/bin/tmfetch && curl -LO https://github.com/sheep1234-bin/tmfetch/raw/main/tmfetch && chmod +x tmfetch && sudo mv tmfetch /usr/local/bin
+
 # Usage
 tmfetch
 
