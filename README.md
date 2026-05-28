@@ -56,7 +56,9 @@ tmfetch
 
 # Tested On:
 Debian (Dash)
+
 Arch (Bash)
+
 Alpine (Zsh)/(Ash)
 
 ## NOTE
