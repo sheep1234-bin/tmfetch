@@ -1,4 +1,4 @@
-### Tmfetch (Tell Me Fetch)
+# Tmfetch (Tell Me Fetch)
 
 # Musl: (First Tested on alpine (through proot-distro on android))
 <img width="1241" height="515" alt="6294" src="https://github.com/user-attachments/assets/c098e541-136c-4bea-ad13-4b6b0e3b5140" />
