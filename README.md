@@ -35,7 +35,13 @@ sudo mv tmfetch /usr/local/bin
 sudo rm /usr/local/bin/tmfetch
 
 # Updating
-sudo rm /usr/local/bin/tmfetch && curl -LO https://github.com/sheep1234-bin/tmfetch/raw/main/tmfetch && chmod +x tmfetch && sudo mv tmfetch /usr/local/bin
+curl -LO https://github.com/sheep1234-bin/tmfetch/raw/main/update.sh
+
+cat update.sh
+
+chmod +x update.sh
+
+sudo ./update.sh
 
 # Usage
 tmfetch
