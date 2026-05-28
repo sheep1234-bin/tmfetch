@@ -35,7 +35,9 @@ sudo mv tmfetch /usr/local/bin
 sudo rm /usr/local/bin/tmfetch
 
 # Updating
-curl -LO https://github.com/sheep1234-bin/tmfetch/raw/main/update.sh
+Follow the uninstallation then the installation
+
+The reason I didnt include an updater was because this is suppose to be extremely minimal
 
 cat update.sh
 
