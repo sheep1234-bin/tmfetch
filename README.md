@@ -9,7 +9,9 @@
 # Features:
 Size: 1kb
 
-Lines: 2
+-Zero dependencies
+
+-Extremely  Minimal
 
 Speed: Instant
 
@@ -18,10 +20,6 @@ Compatibility:
 -Termux (through proot-distro)
 
 -Most POSIX-compliant shells
-
--Zero dependencies
-
--Extremely  Minimal
 # Installation
 curl -LO https://github.com/sheep1234-bin/tmfetch/raw/main/tmfetch
 
