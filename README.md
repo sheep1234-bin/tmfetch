@@ -1,4 +1,5 @@
 ### Tmfetch (Tell Me Fetch)
+## Glibc (First Tested on Arch Linux)
 <img width="460" height="187" alt="Screenshot From 2026-05-28 17-29-10" src="https://github.com/user-attachments/assets/6e69b58a-883d-4e3b-a101-00fb396add7d" />
 
 # Features:
