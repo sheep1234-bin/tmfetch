@@ -61,9 +61,9 @@ Arch (Bash)
 
 Alpine (Zsh)/(Ash)
 
-Fedora
+Fedora (Bash)
 
-Ubuntu
+Ubuntu (Bash)
 
 ## NOTE
 The tar file is the latest stable branch
