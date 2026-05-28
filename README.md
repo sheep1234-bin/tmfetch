@@ -63,7 +63,7 @@ Alpine (Zsh)/(Ash)
 
 Fedora
 
-
+Ubuntu
 
 ## NOTE
 The tar file is the latest stable branch
