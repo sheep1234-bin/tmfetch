@@ -1,8 +1,5 @@
 ### Tmfetch (Tell Me Fetch)
-
-# Tmfetch preview on android
-
-<img width="1241" height="515" alt="6294" src="https://github.com/user-attachments/assets/8d974233-a7de-4294-9bc5-29676e370eb4" />
+<img width="460" height="187" alt="Screenshot From 2026-05-28 17-29-10" src="https://github.com/user-attachments/assets/6e69b58a-883d-4e3b-a101-00fb396add7d" />
 
 # Features:
 Size: 1kb
