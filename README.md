@@ -61,5 +61,7 @@ Arch (Bash)
 
 Alpine (Zsh)/(Ash)
 
+Fedora (Manual Install becouse of issues with install.sh on fedora)
+
 ## NOTE
 The tar file is the latest stable branch
