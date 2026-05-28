@@ -27,7 +27,7 @@ cat tmfetch
 
 chmod +x tmfetch
 
-./tmfetch (testing the script)
+./tmfetch
 
 sudo mv tmfetch /usr/local/bin
 
