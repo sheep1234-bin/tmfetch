@@ -54,5 +54,10 @@ cat install.sh
 # Usage
 tmfetch
 
+# Tested On:
+Debian (Dash)
+Arch (Bash)
+Alpine (Zsh)/(Ash)
+
 ## NOTE
 The tar file is the latest stable branch
