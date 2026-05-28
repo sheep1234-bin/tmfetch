@@ -23,6 +23,8 @@ Compatibility:
 # Installation
 curl -LO https://github.com/sheep1234-bin/tmfetch/raw/main/tmfetch
 
+cat tmfetch
+
 chmod +x tmfetch
 
 ./tmfetch (testing the script)
