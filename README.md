@@ -51,3 +51,6 @@ cat install.sh
 
 # Usage
 tmfetch
+
+## NOTE
+The tar file is the latest stable branch
