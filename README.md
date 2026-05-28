@@ -38,13 +38,6 @@ sudo rm /usr/local/bin/tmfetch
 Follow the uninstallation then the installation
 
 The reason I didnt include an updater was because this is suppose to be extremely minimal
-
-cat update.sh
-
-chmod +x update.sh
-
-sudo ./update.sh
-
 # Usage
 tmfetch
 
