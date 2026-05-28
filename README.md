@@ -22,7 +22,7 @@ Compatibility:
 -Zero dependencies
 
 -Extremely  Minimal
-# Installation
+# Automatic Installation
 curl -LO https://github.com/sheep1234-bin/tmfetch/raw/main/tmfetch.tar.gz && tar -xvzf tmfetch.tar.gz && cd tmfetch_dist
 
 chmod +x install.sh && ./install.sh && cd -
@@ -33,6 +33,8 @@ chmod +x install.sh && ./install.sh && cd -
 curl -LO https://github.com/sheep1234-bin/tmfetch/raw/main/tmfetch
 
 chmod +x tmfetch
+
+./tmfetch (testing the script)
 
 sudo mv tmfetch /usr/local/bin
 
