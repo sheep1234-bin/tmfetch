@@ -1,8 +1,10 @@
 ### Tmfetch (Tell Me Fetch)
-## Glibc (First Tested on Arch Linux)
-<img width="460" height="187" alt="Screenshot From 2026-05-28 17-29-10" src="https://github.com/user-attachments/assets/6e69b58a-883d-4e3b-a101-00fb396add7d" />
 ## Musl (First Tested on alpine (through proot-distro on android))
 <img width="1241" height="515" alt="6294" src="https://github.com/user-attachments/assets/c098e541-136c-4bea-ad13-4b6b0e3b5140" />
+
+## Glibc (First Tested on Arch Linux)
+<img width="460" height="187" alt="Screenshot From 2026-05-28 17-29-10" src="https://github.com/user-attachments/assets/6e69b58a-883d-4e3b-a101-00fb396add7d" />
+
 
 # Features:
 Size: 1kb
